@@ -1,0 +1,4 @@
+Сторонние модули:
+random
+time
+playsound
